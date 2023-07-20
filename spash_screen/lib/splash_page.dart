@@ -60,7 +60,7 @@ class SplashPage extends StatelessWidget {
           ],
         ),
       ),
-    );
+    ); // Container
   }
 
   Widget _buildSmallRectangle(Color color) {
